@@ -30,6 +30,5 @@ p + geom_point() +
        x="Age (Days since 12/31/1968)",
        y="Circumference (mm)",
        color="Tree ID", #What did this change?
-       caption="STS 347, Notes 4-2") +
-  scale_color_brewer(palette="Dark2")
+       caption="STS 347, Notes 4-2") 
 
