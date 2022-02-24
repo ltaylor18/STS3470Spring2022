@@ -1,4 +1,4 @@
-#Tuesday, February 22, 2022
+#Thursday, February 24, 2022
 #Notes 4-2
 
 #Dr. T likes to have all of the packages loaded
