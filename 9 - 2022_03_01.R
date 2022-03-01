@@ -81,19 +81,3 @@ library(plotly)
 ggplotly(g)
 
 
-
-
-
-library(dplyr)
-mystarwars <- mutate(starwars,
-                     myspeciescolor=if_else(_____________________,
-                                                                 "_______",
-                                                                 "_______"))
-ggplot(mystarwars,aes(x=height,
-                      y=mass,
-                      color=____________________)) +
-  geom_point() +
-  __________________________()
-
-
-
